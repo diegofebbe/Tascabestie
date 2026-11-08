@@ -44,6 +44,10 @@ Each language version is a single file, with HTML, CSS and JavaScript. It uses n
 
 Tascabestie is a fan-made hobby project and is not affiliated with Nintendo, Game Freak, The Pokémon Company or any other video game brand. All names, creatures, graphics and sounds are original.
 
+## Authors
+
+Created by Diego Febbe, Leonardo Mazzoni.
+
 ## License
 
 Released under the MIT License: see the [LICENSE](LICENSE) file.
